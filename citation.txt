@@ -1,0 +1,10 @@
+@inproceedings{REPO033,
+    author = "Pang, Yatian and Wang, Wenxiao and Tay, Francis E. H. and Liu, Wei and Tian, Yonghong and Yuan, Li",
+    editor = "Avidan, Shai and Brostow, Gabriel and Ciss{\'e}, Moustapha and Farinella, Giovanni Maria and Hassner, Tal",
+    address = "Cham",
+    booktitle = "Computer Vision -- ECCV 2022",
+    pages = "604--621",
+    publisher = "Springer Nature Switzerland",
+    title = "{Masked Autoencoders for Point Cloud Self-supervised Learning}",
+    year = "2022"
+}
